@@ -1,0 +1,15 @@
+.header {
+    background-color: green;
+}
+
+.header img {
+    width: 10%;
+}
+
+.loginBlock {
+    float: right;
+}
+
+.login {
+    color: aliceblue;
+}

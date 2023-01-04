@@ -1,0 +1,12 @@
+.dialogsWrapp {
+    display: flex;
+}
+
+.dialogsItems {
+    width: 20%;
+    padding: 10px;
+}
+
+.messagesItems {
+    padding: 10px;
+}
